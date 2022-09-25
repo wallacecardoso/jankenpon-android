@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable padrao
+drawable papel
+drawable pedra
+drawable tesoura
+id help_button
+id imagemResultado
+id paper_button
+id rock_button
+id scissors_button
+id textView2
+id textView3
+id txt_result
+id userSelection
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string cd_paper_button
+string cd_rock_button
+string cd_scissors_buton
+string txt_empate
+string txt_perdeu
+string txt_venceu
+style Theme.JanKenPon
+xml backup_rules
+xml data_extraction_rules
